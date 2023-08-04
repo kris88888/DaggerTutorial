@@ -1,0 +1,6 @@
+Fetch latest code from remote origin into the remote branch without bringing in the changes in local branch:
+	> git fetch origin <branch_name>
+
+This will fetch latest changes downloaded  from internet into remote branch present locally but it would not impact the working directory a.k.a local branch.
+
+You can view those changes using git checkout origin/remote_branch_name
