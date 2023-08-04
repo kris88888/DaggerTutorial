@@ -13,5 +13,7 @@ To come back to your latest commit:
 3. To check all recent commits:
 > git log
  
-
+4. Git push origin
+> git push --set-upstream origin remote_branch_name
+If your current branch is not backing up with the remote branch.
  
