@@ -2,4 +2,15 @@
 
 >git branch -r 
 
-2.
+2. If you want to temporarily see what origin branch looked like before your changes.
+> git checkout origin/branch_name e.g. git checkout origin/main
+
+This will detach your HEAD from recent commit to the origin/main.
+
+To come back to your latest commit:
+> git switch branch_name e.g. git switch main
+
+3. To check all recent commits:
+> git log
+
+ 
