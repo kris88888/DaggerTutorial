@@ -1,0 +1,5 @@
+1. Check current remote branch:
+
+>git branch -r 
+
+2.
