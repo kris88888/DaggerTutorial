@@ -1,0 +1,5 @@
+ Create local branch from remote branch:
+	> git pull origin
+	> git switch remote_branch_name
+
+This will create a branch with this name and if same branch exists in the remote repo, it ll make local branch track that branch.
