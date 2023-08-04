@@ -12,5 +12,10 @@ To come back to your latest commit:
 
 3. To check all recent commits:
 > git log
+ 
+
+
+Git Revert the changes Section:
+
 
  
