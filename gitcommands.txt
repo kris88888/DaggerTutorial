@@ -14,8 +14,4 @@ To come back to your latest commit:
 > git log
  
 
-
-Git Revert the changes Section:
-
-
  
