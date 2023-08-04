@@ -12,3 +12,5 @@ Fetching latest code from different branch into your local branch.
 > git pull origin main
 
 This will bring changes from remote main branch into whatever local branch you are on.
+
+Git Merge Conflict Process:
