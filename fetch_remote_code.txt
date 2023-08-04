@@ -13,6 +13,9 @@ Fetching latest code from different branch into your local branch.
 
 This will bring changes from remote main branch into whatever local branch you are on.
 
+Git Merge Conflict Process:
+=================================================
+
 Git merge conflicts are resulting from some changes that you have in local and some changes that other contributors have made in the same file.
 
 The git merge conflicts show up when we have changes in local that haven't been pushed to remote repo and other contributors have touched same files and as soon as we pull the latest repo into our workspace, it pops up merge conflict message.
@@ -23,4 +26,3 @@ Git pull origin
 >> Resolve the merge conflicts
 Git add .
 Git commit -m "Resolved conflicts"
-
