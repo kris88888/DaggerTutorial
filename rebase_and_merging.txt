@@ -1,2 +1,4 @@
  Merging latest from master branch:
 	
+Rebase: Clean history of commits
+Merge: Reports commits made while bringing latest remote branch into current branch.
